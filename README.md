@@ -5,4 +5,6 @@ This repository is used for Book Recommendation and measuring the role of Book C
 Data : 1. [Kaggle Data](https://www.kaggle.com/meetnaren/goodreads-best-books)
        2. [Goodreads Data](https://github.com/zygmuntz/goodbooks-10k)
        
+We merged both Kaggle Data and Goodreads Data to make final input data.
+       
        
